@@ -35,7 +35,7 @@
 - bootstrap
 - css
 - html
-- Postgres // postGIS?? 
+- Postgres // postGIS??
 - node
   - body-parser
   - socket.io (maybe or some kind of socket connection)
@@ -45,10 +45,10 @@
 
 
 ## Feature list
-- Ability to add/view/edit/delete tasks (on tasks tab)
-- Ability to add/view/edit/delete users
-  - users can add an avatar (pick from avatars folder)
-- Dashboard (view upon login)
-- Parents and kids can view activities tab
-  - add location
-- parent-initiated chore reminders via SMS
+- Ability to choose state and ballot measure
+- Display map of tweets
+  - map displays a certain max number of tweets probably bounded by some sort of time period.
+- Filter tweets by location data (coordinates) and ballot measures
+- display tweets about ballot measures
+- Stretch - filter tweet locations by location string data
+- Stretch - analyze tweets by sentiment (positive/negative)
